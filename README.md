@@ -66,4 +66,4 @@ npm i styled-component
 
 Develop `BigCard`'s animation carousels, when a user click on right arrow cards should be moved on the left, if left arrow is clicked cards should move on right side.
 
-[![image](https://user-images.githubusercontent.com/33903092/200269351-797e3344-ee30-4986-8aaf-41901b2f9570.png)](https://im4.ezgif.com/tmp/ezgif-4-034d770da8.gif)
+![image](https://im4.ezgif.com/tmp/ezgif-4-034d770da8.gif)
