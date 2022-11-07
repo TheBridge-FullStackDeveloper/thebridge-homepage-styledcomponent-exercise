@@ -65,4 +65,5 @@ npm i styled-component
 ## 3. Bonus 🏆
 
 Develop `BigCard`'s animation carousels, when a user click on right arrow cards should be moved on the left, if left arrow is clicked cards should move on right side.
-# thebridge-homepage-styledcomponent-exercise
+
+![image](https://user-images.githubusercontent.com/33903092/200269351-797e3344-ee30-4986-8aaf-41901b2f9570.png)
