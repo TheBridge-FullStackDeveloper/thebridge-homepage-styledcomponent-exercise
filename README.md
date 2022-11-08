@@ -4,6 +4,8 @@ In this task you'll replicate the bridge's home page and styling it with [styled
 
 These is the section you'll replicate.
 
+![the-bridge](./styled-component.png)
+
 You can use your preferred react environment. ([CRA](https://create-react-app.dev/), [vite](https://vitejs.dev/), [codesandbox](https://codesandbox.io/), ...)
 
 ## 1. Install styled-component library
@@ -60,10 +62,9 @@ npm i styled-component
 }
 ```
 
-![the-bridge](./styled-component.png)
-
 ## 3. Bonus 🏆
 
 Develop `BigCard`'s animation carousels, when a user click on right arrow cards should be moved on the left, if left arrow is clicked cards should move on right side.
 
-![image](https://im4.ezgif.com/tmp/ezgif-4-034d770da8.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/33903092/200515238-b04947a1-6263-445e-a69a-ecb305c9ad80.gif)
+
